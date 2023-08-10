@@ -10,8 +10,8 @@ Project Description
 
 ### In Progress
 
-- [ ] create token/pool model  
 
 ### Done ✓
 
+- [x] create token/pool model  
 
